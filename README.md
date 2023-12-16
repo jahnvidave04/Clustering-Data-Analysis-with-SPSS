@@ -4,9 +4,9 @@ Clustering Analysis is a method to classify objects or cases into homogenous gro
 # Conducting Clustering Analysis consist of below steps:
 1 Problem Formation
 
-2 Chosing Distance Measure
+2 Choosing Distance Measure
 
-3 Chosing Clustering Procedure
+3 Choosing Clustering Procedure
 
 4 Finalizing appropriate number of clusters
 
