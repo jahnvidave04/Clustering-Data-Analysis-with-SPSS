@@ -13,7 +13,7 @@ Clustering Analysis is a method to classify objects or cases into homogenous gro
 5 Analyze clusters and state profiles
 
 # Problem
-A
+A small law and Garden firm is interested in understanding the landscape of consumers in the L&G marked based on a host of demographic, behavioral and psychographic variables. 
 
 
 Clustering
