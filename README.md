@@ -50,5 +50,5 @@ Following are the statistics and Analysis:
 
 ![image](https://github.com/jahnvidave04/Clustering-Data-Analysis-with-SPSS/assets/126203211/674c3a8e-2950-4512-995b-6603d38fe957)
 
-
+From above analysis and graphs we can say there is a strong cluster formation of male who are age of 34 with Bachelors degree and are married. To target more advertising then firm should focus on the habits of this people. The firm should utilize targeted advertising channels to reach the audience and platforms like social media, online forums, websites that are popular among individuals of mid-thirties should be highlighted. Consider loyalty and reward programs, ensure customer services meets needs of targeted audience and establish a feedback system to understand evolving preference of targeted audience. 
 
