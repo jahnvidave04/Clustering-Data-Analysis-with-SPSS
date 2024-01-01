@@ -28,10 +28,14 @@ Set of Educational variables to be used for profiling are as below:
 * Q40: Marital Status
 * Q41: Education
 
+First we analyze the data using Hierarchial clustering method which helped in identifying step where the jump is present and finalize the number of clusters.
+
+Second step was to do K-Means analysis using selected number of clusters. After running the analysis we can deduce the most engaged cluster. 
+
+Following are the statistics and Analysis:
+![image](https://github.com/jahnvidave04/Clustering-Data-Analysis-with-SPSS/assets/126203211/5d798f8a-6c0f-46e7-b66d-e6f78c2dd650)
 
 
 
 
 
-
-Clustering
