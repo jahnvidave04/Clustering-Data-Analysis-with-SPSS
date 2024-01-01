@@ -33,7 +33,14 @@ First we analyze the data using Hierarchial clustering method which helped in id
 Second step was to do K-Means analysis using selected number of clusters. After running the analysis we can deduce the most engaged cluster. 
 
 Following are the statistics and Analysis:
+
 ![image](https://github.com/jahnvidave04/Clustering-Data-Analysis-with-SPSS/assets/126203211/5d798f8a-6c0f-46e7-b66d-e6f78c2dd650)
+
+
+![image](https://github.com/jahnvidave04/Clustering-Data-Analysis-with-SPSS/assets/126203211/e40ca0a0-6d6a-4bd8-9de6-f9eeb09705c0)
+
+
+
 
 
 
