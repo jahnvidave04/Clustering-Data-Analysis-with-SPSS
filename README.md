@@ -40,9 +40,15 @@ Following are the statistics and Analysis:
 ![image](https://github.com/jahnvidave04/Clustering-Data-Analysis-with-SPSS/assets/126203211/e40ca0a0-6d6a-4bd8-9de6-f9eeb09705c0)
 
 
+![image](https://github.com/jahnvidave04/Clustering-Data-Analysis-with-SPSS/assets/126203211/62ffc038-7297-4f32-8d11-27d256bcbb90)
 
+![image](https://github.com/jahnvidave04/Clustering-Data-Analysis-with-SPSS/assets/126203211/eda1e1a0-5066-42ed-8e9d-3d11492b4d72)
 
+![image](https://github.com/jahnvidave04/Clustering-Data-Analysis-with-SPSS/assets/126203211/a5f3e9b2-504f-4983-b735-ae098c1f5bce)
 
+![image](https://github.com/jahnvidave04/Clustering-Data-Analysis-with-SPSS/assets/126203211/aad67840-db43-4f99-89de-bb0b3c0a36ab)
+
+![image](https://github.com/jahnvidave04/Clustering-Data-Analysis-with-SPSS/assets/126203211/674c3a8e-2950-4512-995b-6603d38fe957)
 
 
 
