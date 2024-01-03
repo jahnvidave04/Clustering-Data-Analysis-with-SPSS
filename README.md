@@ -1,6 +1,6 @@
 # Clustering Data-Analysis-using-SPSS
 
-# Special Note: As this task is related to academics I have not posted the dataset or any related stuff. All the analysis was performed on SPSS sotware and the rights of data belongs to Professor of the course.
+# Special Note: As this task is related to academics I have not posted the dataset or any related stuff. All the analysis was performed on SPSS sotware and the rights of data belongs to Professor of the course(Prof Harvir Bansal).
 
 Clustering Analysis is a method to classify objects or cases into homogenous groups known as clusters. Clustering Analysis is also called Classification Analysis.
 
